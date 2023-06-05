@@ -1,0 +1,414 @@
+body {font-family: 'Roboto', sans-serif;
+}
+.link {
+    text-decoration: none;
+}
+.header-logo {
+
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        color:#2E2F42; ;
+}
+.header-logo span {
+    width: 44px;
+    height: 21px;
+    color: #4D5AE5;
+}
+.header-menu-link {
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+    color: #2E2F42;
+}
+.contactc-mail-link .contacts-phone-link {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.header-menu-link:hover,.contactc-mail-link:hover, .contacts-phone-link:hover,
+.contactc-mail-link:focus, .contacts-phone-link:focus {
+    color:red ;
+}
+/***----main-------------**/
+ul {
+    list-style-type: none;
+}
+.herro {}
+
+.herro-all {
+        width: 69px;
+        height: 48px;
+    font-family: inherit;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5px;
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        cursor: pointer;
+        color: #404BBF;
+        background: #F4F4FD;
+        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+            border-radius: 4px;
+            box-sizing: border-box;
+}
+.herro-all:hover {
+    background-color:#404BBF ;
+    color:#FFFFFF ;
+} 
+
+.herro-webs {
+    font-family: inherit;
+    box-sizing: border-box;
+    font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    cursor: pointer;
+    align-items: center;
+    padding: 12px 24px;
+    width: 116px;
+    height: 48px;
+    color:#4D5AE5; ;
+    background: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px
+}
+.herro-webs:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
+.herro-app {
+    width: 30px;
+        height: 24px;
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        color: #4D5AE5;
+        box-sizing: border-box;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            padding: 12px 24px;
+            width: 78px;
+            height: 48px;
+            background: #F4F4FD;
+        cursor: pointer;
+}
+.herro-app:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
+.herro-design {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    color: #4D5AE5;
+    background:#F4F4FD ;
+    width: 101px;
+        height: 48px;
+        border: 1px solid #E7E9FC;
+}
+.herro-design:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
+.herro-mark {
+    font-family: inherit;
+        font-style: normal;
+        color: #4D5AE5;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        background: #F4F4FD;
+        width: 126px;
+            height: 48px
+}
+.herro-mark:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
+.link {
+    text-decoration: none;
+}
+.one {}
+
+.a {}
+
+.a-list {}
+
+.a-i {}
+
+
+.a-h {
+    width: 290px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.a-a {
+    width: 30px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.a-im {}
+
+.a-hh {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.a-ap {
+    width: 75px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.a-img {}
+
+.a-hhh {
+    width: 143px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.a-app {
+    width: 30px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.two {}
+
+.b {}
+
+.b-list {}
+
+.b-i {}
+
+.b-h {
+    width: 113px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.b-a {
+    width: 75px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.b-im {}
+
+.b-hh {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.b-ap {
+    width: 51px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.b-img {}
+
+.b-hhh {
+    width: 142px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2 ;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.b-app {
+    width: 75px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.three {}
+
+.c {}
+
+.c-list {}
+
+.c-i {}
+
+.c-h {
+    width: 249px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2 ;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.c-a {
+    width: 51px;
+        height: 24px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5 ;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.c-im {}
+
+.c-hh {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2 ;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.c-ap {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.c-img {}
+
+.c-hhh {
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2 ;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.c-app {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.a-a:hover, .a-ap:hover, .a-app:hover, .b-a:hover, .b-ap:hover, .b-app:hover, .c-a:hover, .c-ap:hover, .c-app:hover {
+    color: red
+}
