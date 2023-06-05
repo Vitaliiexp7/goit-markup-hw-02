@@ -49,6 +49,10 @@ body {
     color:red ;
 }
 /***----main-------------**/
+:root {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;}
 ul {
     list-style-type: none;
 }
