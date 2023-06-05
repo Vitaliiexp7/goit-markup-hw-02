@@ -13,17 +13,20 @@ body {
 
 .header-logo {
 
+font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    color: #2E2F42;
+}
+.header-logo span {
+    font-family: 'Raleway';
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
         line-height: 1.17;
-        letter-spacing: 0.03em;
-        color:#2E2F42; ;
-}
-.header-logo span {
-    width: 44px;
-    height: 21px;
-    color: #4D5AE5;
+        color: #4D5AE5;
 }
 .header-menu-link {
 
