@@ -69,9 +69,6 @@ ul {
         cursor: pointer;
         color: #404BBF;
         background: #F4F4FD;
-        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
-            border-radius: 4px;
-            box-sizing: border-box;
 }
 .herro-all:hover {
     background-color:#404BBF ;
@@ -80,17 +77,12 @@ ul {
 
 .herro-webs {
     font-family: inherit;
-    box-sizing: border-box;
     font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
-    width: 116px;
-    height: 48px;
     color:#4D5AE5; ;
     background: #F4F4FD;
-    border: 1px solid #E7E9FC;
-    border-radius: 4px
 }
 .herro-webs:hover {
     background-color: #404BBF;
@@ -313,8 +305,6 @@ ul {
 }
 
 .c-a {
-    width: 51px;
-        height: 24px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
