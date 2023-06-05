@@ -2,9 +2,15 @@
     color: #434455;
     background-color: #FFFFFF;
 }
+body {
+     font-family: 'Roboto', sans-serif;
+     color: #434455;
+     background-color: #FFFFFF;
+ }
 .link {
     text-decoration: none;
 }
+
 .header-logo {
 
         font-style: normal;
