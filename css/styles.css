@@ -337,13 +337,15 @@ ul {
     color: red
 }
 
-.footer {
-    font-family: 'Roboto';
+.foot {
+        font-family: 'Raleway', sans-serif,
         font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #F4F4FD;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        ext-decoration: none;
+        color: #4d5ae5;
         background: #2E2F42;
 }
