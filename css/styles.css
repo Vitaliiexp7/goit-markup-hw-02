@@ -336,3 +336,14 @@ ul {
 .a-a:hover, .a-ap:hover, .a-app:hover, .b-a:hover, .b-ap:hover, .b-app:hover, .c-a:hover, .c-ap:hover, .c-app:hover {
     color: red
 }
+
+.footer {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+        background: #2E2F42;
+}
