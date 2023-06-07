@@ -342,10 +342,15 @@ ul {
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
-        line-height: 1.17;
+        line-height: 1.5;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         ext-decoration: none;
         color: #4d5ae5;
         background-color: #2e2f42;
+}
+.foot {
+letter-spacing: 0.02em;
+line-height: 1.5;
+color:#F4F4FD;
 }
