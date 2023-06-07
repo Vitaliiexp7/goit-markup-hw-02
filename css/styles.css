@@ -12,7 +12,6 @@ body {
 }
 
 .header-logo {
-
 font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -31,6 +30,7 @@ font-family: 'Raleway', sans-serif;
         font-size: 18px;
         line-height: 1.17;
         color: #2e2f42;
+
 }
 .header-menu-link {
 
